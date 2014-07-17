@@ -104,11 +104,6 @@ solution = output.result.solution;
 %-------------------------------------------------------------------%
 %--------------------------- Plot Solution -------------------------%
 %-------------------------------------------------------------------%
-%      
-%     x = solution.phase.state;
-%     u = solution.phase.control;
-%     t = solution.phase.time;
-%     load ('report.mat');
 
 close all
 	figure(1);
